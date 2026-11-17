@@ -70,10 +70,16 @@ background:linear-gradient(to top, rgba(0,0,0,0.5),rgba(0,0,0,0.3)), url('https:
 }
 
 .content{
-     margin:10px;
+     margin:20px;
      color:white;
 }
 
 p{
      line-height:1.5;
+}
+
+/*blockquotes*/
+blockquote{
+     font-size:16px;
+     color:#ffbb6f;
 }
